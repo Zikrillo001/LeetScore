@@ -3,7 +3,10 @@ const students = [
     { name: "Azimxo'jayev Abdulazizxo'ja", solved: "unknown", account_name: "Kho_ja", account_link: "https://leetcode.com/u/Kho_ja/"},
     { name: "Ismoilova Soliha", solved: "unknown", account_name: "Ismoilova1031", account_link: "https://leetcode.com/u/Ismoilova1031/"},
     { name: "Kozokjonov Khushnudbek", solved: "unknown", account_name: "edSJVRbEh6", account_link: "https://leetcode.com/u/edSJVRbEh6/" },
-    {name: "Pardayev Otabek", solved: "unknown", account_name: "pardayevotabek30gmailcom", account_link: "https://leetcode.com/u/pardayevotabek30gmailcom/" }
+    {name: "Pardayev Otabek", solved: "unknown", account_name: "pardayevotabek30gmailcom", account_link: "https://leetcode.com/u/pardayevotabek30gmailcom/" },
+    {name: "Abdulaziz Yunusov", solved: "unknown", account_name: "ayunusov238", account_link: "https://leetcode.com/u/ayunusov238/" },
+    {name: "Xamidjonov Fazliddin", solved: "unknown", account_name: "Fazliddin_001", account_link: "https://leetcode.com/u/Fazliddin_001/" },
+    {name: "Amrullayev Nurbek", solved: "unknown", account_name: "Amrullayev", account_link: "https://leetcode.com/u/Amrullayev/" }
 ];
 
 // Talabalar ro'yxatini yuklash
