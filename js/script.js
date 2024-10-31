@@ -1,5 +1,4 @@
 const students = [
-    { name: "Zikrillo Bakhshullaev", solved: "unknown", account_name: "Adams_James", account_link: "https://leetcode.com/u/Adams_James/" },
     { name: "Tukhtamishhoji-zoda Muhammad Nur Islom", solved: "unknown", account_name: "jdu211171", account_link: "https://leetcode.com/u/jdu211171/" },
     { name: "Azimxo'jayev Abdulazizxo'ja", solved: "unknown", account_name: "Kho_ja", account_link: "https://leetcode.com/u/Kho_ja/"},
     { name: "Ismoilova Soliha", solved: "unknown", account_name: "Ismoilova1031", account_link: "https://leetcode.com/u/Ismoilova1031/"},
