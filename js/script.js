@@ -3,6 +3,7 @@ const students = [
     { name: "Azimxo'jayev Abdulazizxo'ja", solved: "unknown", account_name: "Kho_ja", account_link: "https://leetcode.com/u/Kho_ja/"},
     { name: "Ismoilova Soliha", solved: "unknown", account_name: "Ismoilova1031", account_link: "https://leetcode.com/u/Ismoilova1031/"},
     { name: "Kozokjonov Khushnudbek", solved: "unknown", account_name: "edSJVRbEh6", account_link: "https://leetcode.com/u/edSJVRbEh6/" },
+    {name: "Pardayev Otabek", solved: "unknown", account_name: "pardayevotabek30gmailcom", account_link: "https://leetcode.com/u/pardayevotabek30gmailcom/" }
 ];
 
 // Talabalar ro'yxatini yuklash
