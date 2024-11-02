@@ -6,7 +6,8 @@ const students = [
     {name: "Pardayev Otabek", solved: "unknown", account_name: "pardayevotabek30gmailcom", account_link: "https://leetcode.com/u/pardayevotabek30gmailcom/" },
     {name: "Abdulaziz Yunusov", solved: "unknown", account_name: "ayunusov238", account_link: "https://leetcode.com/u/ayunusov238/" },
     {name: "Xamidjonov Fazliddin", solved: "unknown", account_name: "Fazliddin_001", account_link: "https://leetcode.com/u/Fazliddin_001/" },
-    {name: "Amrullayev Nurbek", solved: "unknown", account_name: "Amrullayev", account_link: "https://leetcode.com/u/Amrullayev/" }
+    {name: "Amrullayev Nurbek", solved: "unknown", account_name: "Amrullayev", account_link: "https://leetcode.com/u/Amrullayev/" },
+    {name: "Pulatov Abdufattoh", solved: "unknown", account_name: "abdufattohcoder2004", account_link: "https://leetcode.com/u/abdufattohcoder2004/" },
 ];
 
 // Talabalar ro'yxatini yuklash
