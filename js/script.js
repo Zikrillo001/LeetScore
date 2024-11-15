@@ -9,7 +9,8 @@ const students = [
     {name: "Amrullayev Nurbek", solved: "unknown", account_name: "Amrullayev", account_link: "https://leetcode.com/u/Amrullayev/" },
     {name: "Pulatov Abdufattoh", solved: "unknown", account_name: "abdufattohcoder2004", account_link: "https://leetcode.com/u/abdufattohcoder2004/" },
     {name: "Tillayev Xusniddin", solved: "unknown", account_name: "MrPyDeveloper", account_link: "https://leetcode.com/u/MrPyDeveloper/" },
-    {name: "Farmonov Javohir", solved: "unknown", account_name: "javohir07", account_link: "https://leetcode.com/u/javohir07/" },
+    {name: "Farmonov Javohir", solved: "unknown", account_name: "javohir07", account_link: "https://leetcode.com/u/javohir07/"},
+    {name: "Otajonov Jaloliddin", solved: "unknown", account_name: "otajonovmuhammadali", account_link: "https://leetcode.com/u/otajonovmuhammadali/" },
 ];
 
 // Talabalar ro'yxatini yuklash
