@@ -14,6 +14,7 @@ const students = [
     {name: "Shavkatov Bahodir", solved: "unknown", account_name: "agadev", account_link: "https://leetcode.com/u/agadev/" },
     {name: "Muzaffar Xusanov", solved: "unknown", account_name: "muza_Sano", account_link: "https://leetcode.com/u/muza_Sano/" },
     {name: "Farrux Shavkatov", solved: "unknown", account_name: "yamamoto05", account_link: "https://leetcode.com/u/yamamoto05/" },
+    {name: "Ibroximov Diyorbek", solved: "unknown", account_name: "Ibroximov_Diyorbek", account_link: "https://leetcode.com/u/Ibroximov_Diyorbek/" },
 ];
 
 // Talabalar ro'yxatini yuklash
