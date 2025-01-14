@@ -11,6 +11,7 @@ const students = [
     {name: "Tillayev Xusniddin", solved: "unknown", account_name: "MrPyDeveloper", account_link: "https://leetcode.com/u/MrPyDeveloper/" },
     {name: "Farmonov Javohir", solved: "unknown", account_name: "javohir07", account_link: "https://leetcode.com/u/javohir07/"},
     {name: "Otajonov Muhammadali", solved: "unknown", account_name: "otajonovmuhammadali", account_link: "https://leetcode.com/u/otajonovmuhammadali/" },
+    {name: "Shavkatov Bahodir", solved: "unknown", account_name: "agadev", account_link: "https://leetcode.com/u/agadev/" },
     {name: "Muzaffar Xusanov", solved: "unknown", account_name: "muza_Sano", account_link: "https://leetcode.com/u/muza_Sano/" },
     {name: "Farrux Shavkatov", solved: "unknown", account_name: "yamamoto05", account_link: "https://leetcode.com/u/yamamoto05/" },
 ];
