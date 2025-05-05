@@ -16,6 +16,7 @@ const students = [
     {name: "Farrux Shavkatov", solved: "unknown", account_name: "yamamoto05", account_link: "https://leetcode.com/u/yamamoto05/" },
     {name: "Ibroximov Diyorbek", solved: "unknown", account_name: "Ibroximov_Diyorbek", account_link: "https://leetcode.com/u/Ibroximov_Diyorbek/" },
     {name: "Sardor Olimjonov", solved: "unknown", account_name: "Daydi", account_link: "https://leetcode.com/u/Daydi/" },
+    {name: "Gofurov Nodirbek", solved: "unknown", account_name: "nodirjohn", account_link: "https://leetcode.com/u/nodirjohn/" },
 ];
 
 // Talabalar ro'yxatini yuklash
